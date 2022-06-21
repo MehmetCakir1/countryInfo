@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(rgb(4, 43, 87),rgb(121, 136, 231))
+}
+
+.btn{
+    width: 8rem;
+    cursor: pointer;
+}
+.flags img,.mySelect{
+    cursor: pointer;
+}
+.card{
+    box-shadow: 3px 3px 60px 10px #0d188d;
+}
